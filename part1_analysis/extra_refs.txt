@@ -1,0 +1,5 @@
+Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). Data Structures and Algorithms in Python. Wiley.
+
+Knuth, D. E. (1998). The Art of Computer Programming, Vol. 3, 2nd ed. Addison-Wesley.
+
+GeeksforGeeks. AVL Tree Set 1 (Insertion) and Set 2 (Deletion). https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
